@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการรายรับรายจ่าย",
+  "description": "เว็บจัดการรายรับรายจ่าย รองรับการสรุปผลรายเดือน วิเคราะห์ข้อมูลด้วยกราฟ และใช้งานได้ทั้งบัญชี Google และบัญชีทดลองโดยไม่ต้องล็อกอิน ออกแบบมาสำหรับมือถือ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
